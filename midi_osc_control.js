@@ -1,0 +1,6 @@
+s0.initCam(2)
+osc_val = () => (cc[1] * 100)
+src(s0)
+  .color(1, 0, 3)
+  .modulate(osc(osc_val))
+  .out() 

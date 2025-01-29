@@ -10,3 +10,7 @@ TODO
       - how to easily add browser console code for midi support instead of pasting each time
 - Incorporate atom to run locally
     - maybe even on microcomputer eventually
+
+DOCUMENTATION/RESOURCES:
+- https://webaudio.github.io/web-midi-api/
+- 

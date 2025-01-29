@@ -14,3 +14,5 @@ TODO
 DOCUMENTATION/RESOURCES:
 - https://webaudio.github.io/web-midi-api/
 - https://github.com/hydra-synth/hydra?tab=readme-ov-file
+- https://hydra.ojack.xyz/docs/
+- https://hydra.ojack.xyz/garden/

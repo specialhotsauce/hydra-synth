@@ -7,3 +7,6 @@ TODO
     - Include text to voice capability and write that on screen
     - also requires microphone support
 - MIDI control project ongoing
+      - how to easily add browser console code for midi support instead of pasting each time
+- Incorporate atom to run locally
+    - maybe even on microcomputer eventually

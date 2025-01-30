@@ -23,7 +23,7 @@ DOCUMENTATION/RESOURCES:
 - https://github.com/hydra-synth/hydra?tab=readme-ov-file
 - https://hydra.ojack.xyz/docs/
 - https://hydra.ojack.xyz/garden/
-- [loadscript documentation]([https://hydra.ojack.xyz/](https://hydra.ojack.xyz/docs/docs/learning/extending-hydra/extending-hydra/#loading-external-scripts))
+- [loadscript documentation](https://hydra.ojack.xyz/docs/docs/learning/extending-hydra/extending-hydra/#loading-external-scripts)
 
 
 Commands:

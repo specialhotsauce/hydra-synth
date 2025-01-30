@@ -3,6 +3,9 @@ hydra visual synthesizer projects
 
 TODO
 - Multiple camera set up (dslr and reg webcam)
+- Oscilloscope simulator, eventually overlay this over shit
+- smooth transition between code scripts
+- OpenCV keypoint tracking and visualization
 - Use canvas element to write text on screen
     - Include text to voice capability and write that on screen
     - also requires microphone support

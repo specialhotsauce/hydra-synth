@@ -13,6 +13,11 @@ TODO
 - Easing functions
     -https://hydra.ojack.xyz/docs/docs/learning/sequencing-and-interactivity/arrays/#easing-functions
 
+What the fuck is this:
+- https://hyper-hydra.glitch.me/hydra-gif.js
+- where are these people coding their stuff and just uploading it to?
+- I need to learn java script
+  
 DOCUMENTATION/RESOURCES:
 - https://webaudio.github.io/web-midi-api/
 - https://github.com/hydra-synth/hydra?tab=readme-ov-file

@@ -23,3 +23,6 @@ DOCUMENTATION/RESOURCES:
 - https://github.com/hydra-synth/hydra?tab=readme-ov-file
 - https://hydra.ojack.xyz/docs/
 - https://hydra.ojack.xyz/garden/
+
+Commands:
+- Control + Shift + h = hide code! 
